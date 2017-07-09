@@ -9,6 +9,8 @@
 <li> create new database name banana in phpmyadmin </li>
 
 
+# PHP-Slim-Restful
+```
 CREATE TABLE users(
 user_id int AUTO_INCREMENT PRIMARY KEY,
 username varchar(50),
@@ -22,4 +24,3 @@ feed text,
 user_id_fk int
 );
 ```
-
