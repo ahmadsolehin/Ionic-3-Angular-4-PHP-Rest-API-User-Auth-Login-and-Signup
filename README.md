@@ -6,3 +6,6 @@
 
 <li>Need to use php rest api    </li>
 <li>download the php file in api folder</li>
+<li> create new database name banana in phpmyadmin </li>
+
+
